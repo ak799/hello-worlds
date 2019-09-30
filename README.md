@@ -1,5 +1,5 @@
 # hello-worlds
-This repo is for [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+This repository is for [Hacktoberfest](https://hacktoberfest.digitalocean.com)
 Collection of over 300 Hello World programs, and counting!
 
 Check them out in the [examples](https://github.com/knightking100/hello-worlds/tree/master/examples) folder.
